@@ -1,0 +1,22 @@
+n_ctx: 4
+checkpoint: hspnet+coco
+log_file: hspnet+coco.txt
+model_name: clip_gcn
+lr: 0.0001
+epochs: 60
+gcn_lr: 0.0005
+reweight_p: 0.2
+relation_file: relation+super+rn50.npy
+ratio: 1
+parent_n_ctx: 4
+parent_ctx_init: a photo of a
+child_n_ctx: 4
+child_ctx_init: a photo of a
+meta_lr: 0.0005
+change_epoch: 1
+tau: 0.6
+image_size: 224
+num_classes: 80
+super_labels: super_labels.txt
+super_labels_index: super_labels_index.npy
+child_num: 80

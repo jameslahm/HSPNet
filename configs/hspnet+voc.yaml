@@ -1,0 +1,24 @@
+checkpoint: hspnet+voc
+log_file: hspnet+voc.txt
+model_name: clip_gcn
+lr: 0.0001
+epochs: 60
+data: /data/chenhui/wangao/datasets/voc2012/
+train_dataset: ./dataset/voc_train.txt
+val_dataset: ./dataset/voc_val.txt
+child_num: 20
+ratio: 1
+parent_n_ctx: 4
+parent_ctx_init: a photo of a
+child_n_ctx: 4
+child_ctx_init: a photo of a
+meta_lr: 0.0007
+change_epoch: 2
+tau: 0.6
+super_labels: voc_super_labels.txt
+super_labels_index: voc_super_labels_index.npy
+gcn_lr: 0.0007
+reweight_p: 0.2
+relation_file: relation+voc+super.npy
+image_size: 224
+num_classes: 20

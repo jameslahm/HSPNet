@@ -1,0 +1,230 @@
+2023-01-06 10:26:43,669 [INFO] Epoch [0/60], Step [000/642], LR 4.0e-06, Loss: 6677.1
+2023-01-06 10:27:27,318 [INFO] Epoch [0/60], Step [100/642], LR 4.0e-06, Loss: 274.9
+2023-01-06 10:28:08,813 [INFO] Epoch [0/60], Step [200/642], LR 4.1e-06, Loss: 210.1
+2023-01-06 10:28:51,729 [INFO] Epoch [0/60], Step [300/642], LR 4.2e-06, Loss: 181.3
+2023-01-06 10:29:32,565 [INFO] Epoch [0/60], Step [400/642], LR 4.4e-06, Loss: 193.1
+2023-01-06 10:30:13,110 [INFO] Epoch [0/60], Step [500/642], LR 4.6e-06, Loss: 168.4
+2023-01-06 10:30:53,517 [INFO] Epoch [0/60], Step [600/642], LR 4.8e-06, Loss: 181.3
+2023-01-06 10:31:10,763 [INFO] Start validation...
+2023-01-06 10:32:33,765 [INFO] mAP score regular 66.99, mAP score EMA 30.57
+2023-01-06 10:32:35,675 [INFO] current_mAP = 66.99, highest_mAP = 66.99, best_epoch=0
+
+2023-01-06 10:32:35,675 [INFO] Save text embeddings done
+2023-01-06 10:32:39,253 [INFO] Epoch [1/60], Step [000/642], LR 4.9e-06, Loss: 222.9
+2023-01-06 10:33:20,384 [INFO] Epoch [1/60], Step [100/642], LR 5.2e-06, Loss: 162.4
+2023-01-06 10:34:01,151 [INFO] Epoch [1/60], Step [200/642], LR 5.6e-06, Loss: 149.6
+2023-01-06 10:34:41,766 [INFO] Epoch [1/60], Step [300/642], LR 6.0e-06, Loss: 133.2
+2023-01-06 10:35:22,254 [INFO] Epoch [1/60], Step [400/642], LR 6.4e-06, Loss: 149.0
+2023-01-06 10:36:01,996 [INFO] Epoch [1/60], Step [500/642], LR 6.9e-06, Loss: 132.8
+2023-01-06 10:36:42,149 [INFO] Epoch [1/60], Step [600/642], LR 7.4e-06, Loss: 113.7
+2023-01-06 10:36:58,685 [INFO] Start validation...
+2023-01-06 10:38:22,639 [INFO] mAP score regular 70.26, mAP score EMA 46.59
+2023-01-06 10:38:51,371 [INFO] current_mAP = 70.26, highest_mAP = 70.26, best_epoch=1
+
+2023-01-06 10:38:51,371 [INFO] Save text embeddings done
+2023-01-06 10:38:54,794 [INFO] Epoch [2/60], Step [000/642], LR 7.7e-06, Loss: 132.3
+2023-01-06 10:39:35,375 [INFO] Epoch [2/60], Step [100/642], LR 8.2e-06, Loss: 116.3
+2023-01-06 10:40:16,047 [INFO] Epoch [2/60], Step [200/642], LR 8.9e-06, Loss: 136.2
+2023-01-06 10:40:56,108 [INFO] Epoch [2/60], Step [300/642], LR 9.5e-06, Loss: 110.5
+2023-01-06 10:41:36,749 [INFO] Epoch [2/60], Step [400/642], LR 1.0e-05, Loss: 114.5
+2023-01-06 10:42:16,926 [INFO] Epoch [2/60], Step [500/642], LR 1.1e-05, Loss: 93.0
+2023-01-06 10:42:57,176 [INFO] Epoch [2/60], Step [600/642], LR 1.2e-05, Loss: 120.9
+2023-01-06 10:43:13,062 [INFO] Start validation...
+2023-01-06 10:44:36,861 [INFO] mAP score regular 72.87, mAP score EMA 57.85
+2023-01-06 10:44:51,590 [INFO] current_mAP = 72.87, highest_mAP = 72.87, best_epoch=2
+
+2023-01-06 10:44:51,590 [INFO] Save text embeddings done
+2023-01-06 10:44:54,933 [INFO] Epoch [3/60], Step [000/642], LR 1.2e-05, Loss: 109.8
+2023-01-06 10:45:35,219 [INFO] Epoch [3/60], Step [100/642], LR 1.3e-05, Loss: 97.1
+2023-01-06 10:46:15,671 [INFO] Epoch [3/60], Step [200/642], LR 1.4e-05, Loss: 85.8
+2023-01-06 10:46:55,987 [INFO] Epoch [3/60], Step [300/642], LR 1.5e-05, Loss: 91.6
+2023-01-06 10:47:36,020 [INFO] Epoch [3/60], Step [400/642], LR 1.6e-05, Loss: 97.6
+2023-01-06 10:48:15,870 [INFO] Epoch [3/60], Step [500/642], LR 1.7e-05, Loss: 96.6
+2023-01-06 10:48:55,755 [INFO] Epoch [3/60], Step [600/642], LR 1.8e-05, Loss: 108.5
+2023-01-06 10:49:12,065 [INFO] Start validation...
+2023-01-06 10:50:36,044 [INFO] mAP score regular 72.55, mAP score EMA 66.32
+2023-01-06 10:50:36,063 [INFO] current_mAP = 72.55, highest_mAP = 72.87, best_epoch=2
+
+2023-01-06 10:50:36,063 [INFO] Save text embeddings done
+2023-01-06 10:50:39,299 [INFO] Epoch [4/60], Step [000/642], LR 1.8e-05, Loss: 85.6
+2023-01-06 10:51:20,650 [INFO] Epoch [4/60], Step [100/642], LR 1.9e-05, Loss: 73.7
+2023-01-06 10:52:01,969 [INFO] Epoch [4/60], Step [200/642], LR 2.0e-05, Loss: 79.7
+2023-01-06 10:52:42,088 [INFO] Epoch [4/60], Step [300/642], LR 2.1e-05, Loss: 89.7
+2023-01-06 10:53:22,287 [INFO] Epoch [4/60], Step [400/642], LR 2.2e-05, Loss: 73.7
+2023-01-06 10:54:02,071 [INFO] Epoch [4/60], Step [500/642], LR 2.4e-05, Loss: 97.7
+2023-01-06 10:54:42,356 [INFO] Epoch [4/60], Step [600/642], LR 2.5e-05, Loss: 103.6
+2023-01-06 10:54:58,788 [INFO] Start validation...
+2023-01-06 10:56:23,144 [INFO] mAP score regular 71.86, mAP score EMA 71.28
+2023-01-06 10:56:23,163 [INFO] current_mAP = 71.86, highest_mAP = 72.87, best_epoch=2
+
+2023-01-06 10:56:23,164 [INFO] Save text embeddings done
+2023-01-06 10:56:26,489 [INFO] Epoch [5/60], Step [000/642], LR 2.5e-05, Loss: 60.6
+2023-01-06 10:57:07,101 [INFO] Epoch [5/60], Step [100/642], LR 2.7e-05, Loss: 64.7
+2023-01-06 10:57:47,649 [INFO] Epoch [5/60], Step [200/642], LR 2.8e-05, Loss: 72.4
+2023-01-06 10:58:27,967 [INFO] Epoch [5/60], Step [300/642], LR 2.9e-05, Loss: 79.8
+2023-01-06 10:59:08,446 [INFO] Epoch [5/60], Step [400/642], LR 3.0e-05, Loss: 78.6
+2023-01-06 10:59:48,369 [INFO] Epoch [5/60], Step [500/642], LR 3.2e-05, Loss: 78.5
+2023-01-06 11:00:28,285 [INFO] Epoch [5/60], Step [600/642], LR 3.3e-05, Loss: 79.9
+2023-01-06 11:00:45,123 [INFO] Start validation...
+2023-01-06 11:02:09,114 [INFO] mAP score regular 69.01, mAP score EMA 73.68
+2023-01-06 11:02:25,491 [INFO] current_mAP = 73.68, highest_mAP = 73.68, best_epoch=5
+
+2023-01-06 11:02:25,491 [INFO] Save text embeddings done
+2023-01-06 11:02:28,739 [INFO] Epoch [6/60], Step [000/642], LR 3.4e-05, Loss: 72.5
+2023-01-06 11:03:09,361 [INFO] Epoch [6/60], Step [100/642], LR 3.5e-05, Loss: 65.7
+2023-01-06 11:03:49,475 [INFO] Epoch [6/60], Step [200/642], LR 3.6e-05, Loss: 76.5
+2023-01-06 11:04:29,271 [INFO] Epoch [6/60], Step [300/642], LR 3.8e-05, Loss: 78.9
+2023-01-06 11:05:09,943 [INFO] Epoch [6/60], Step [400/642], LR 3.9e-05, Loss: 110.6
+2023-01-06 11:05:50,607 [INFO] Epoch [6/60], Step [500/642], LR 4.1e-05, Loss: 95.0
+2023-01-06 11:06:30,753 [INFO] Epoch [6/60], Step [600/642], LR 4.2e-05, Loss: 96.8
+2023-01-06 11:06:46,977 [INFO] Start validation...
+2023-01-06 11:08:11,768 [INFO] mAP score regular 68.48, mAP score EMA 74.87
+2023-01-06 11:08:25,249 [INFO] current_mAP = 74.87, highest_mAP = 74.87, best_epoch=6
+
+2023-01-06 11:08:25,250 [INFO] Save text embeddings done
+2023-01-06 11:08:28,518 [INFO] Epoch [7/60], Step [000/642], LR 4.3e-05, Loss: 70.0
+2023-01-06 11:09:08,481 [INFO] Epoch [7/60], Step [100/642], LR 4.4e-05, Loss: 79.5
+2023-01-06 11:09:48,337 [INFO] Epoch [7/60], Step [200/642], LR 4.6e-05, Loss: 82.0
+2023-01-06 11:10:28,995 [INFO] Epoch [7/60], Step [300/642], LR 4.7e-05, Loss: 77.5
+2023-01-06 11:11:09,224 [INFO] Epoch [7/60], Step [400/642], LR 4.8e-05, Loss: 67.2
+2023-01-06 11:11:49,297 [INFO] Epoch [7/60], Step [500/642], LR 5.0e-05, Loss: 76.2
+2023-01-06 11:12:29,366 [INFO] Epoch [7/60], Step [600/642], LR 5.1e-05, Loss: 89.8
+2023-01-06 11:12:45,606 [INFO] Start validation...
+2023-01-06 11:14:09,585 [INFO] mAP score regular 65.73, mAP score EMA 75.48
+2023-01-06 11:14:24,323 [INFO] current_mAP = 75.48, highest_mAP = 75.48, best_epoch=7
+
+2023-01-06 11:14:24,323 [INFO] Save text embeddings done
+2023-01-06 11:14:27,471 [INFO] Epoch [8/60], Step [000/642], LR 5.2e-05, Loss: 63.9
+2023-01-06 11:15:09,219 [INFO] Epoch [8/60], Step [100/642], LR 5.3e-05, Loss: 62.6
+2023-01-06 11:15:49,447 [INFO] Epoch [8/60], Step [200/642], LR 5.5e-05, Loss: 83.8
+2023-01-06 11:16:29,938 [INFO] Epoch [8/60], Step [300/642], LR 5.6e-05, Loss: 80.0
+2023-01-06 11:17:10,119 [INFO] Epoch [8/60], Step [400/642], LR 5.8e-05, Loss: 78.9
+2023-01-06 11:17:50,163 [INFO] Epoch [8/60], Step [500/642], LR 5.9e-05, Loss: 92.4
+2023-01-06 11:18:30,286 [INFO] Epoch [8/60], Step [600/642], LR 6.1e-05, Loss: 71.5
+2023-01-06 11:18:46,873 [INFO] Start validation...
+2023-01-06 11:20:11,573 [INFO] mAP score regular 63.04, mAP score EMA 75.71
+2023-01-06 11:20:26,898 [INFO] current_mAP = 75.71, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 11:20:26,899 [INFO] Save text embeddings done
+2023-01-06 11:20:30,841 [INFO] Epoch [9/60], Step [000/642], LR 6.1e-05, Loss: 62.5
+2023-01-06 11:21:11,335 [INFO] Epoch [9/60], Step [100/642], LR 6.3e-05, Loss: 60.1
+2023-01-06 11:21:51,370 [INFO] Epoch [9/60], Step [200/642], LR 6.4e-05, Loss: 72.3
+2023-01-06 11:22:31,280 [INFO] Epoch [9/60], Step [300/642], LR 6.6e-05, Loss: 79.1
+2023-01-06 11:23:11,614 [INFO] Epoch [9/60], Step [400/642], LR 6.7e-05, Loss: 87.5
+2023-01-06 11:23:52,127 [INFO] Epoch [9/60], Step [500/642], LR 6.8e-05, Loss: 73.2
+2023-01-06 11:24:32,396 [INFO] Epoch [9/60], Step [600/642], LR 7.0e-05, Loss: 86.5
+2023-01-06 11:24:48,502 [INFO] Start validation...
+2023-01-06 11:26:12,112 [INFO] mAP score regular 62.19, mAP score EMA 75.68
+2023-01-06 11:26:12,131 [INFO] current_mAP = 75.68, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 11:26:12,131 [INFO] Save text embeddings done
+2023-01-06 11:26:15,467 [INFO] Epoch [10/60], Step [000/642], LR 7.0e-05, Loss: 70.3
+2023-01-06 11:26:55,660 [INFO] Epoch [10/60], Step [100/642], LR 7.2e-05, Loss: 75.6
+2023-01-06 11:27:36,257 [INFO] Epoch [10/60], Step [200/642], LR 7.3e-05, Loss: 69.9
+2023-01-06 11:28:16,330 [INFO] Epoch [10/60], Step [300/642], LR 7.4e-05, Loss: 74.2
+2023-01-06 11:28:56,391 [INFO] Epoch [10/60], Step [400/642], LR 7.6e-05, Loss: 94.4
+2023-01-06 11:29:37,001 [INFO] Epoch [10/60], Step [500/642], LR 7.7e-05, Loss: 80.4
+2023-01-06 11:30:16,914 [INFO] Epoch [10/60], Step [600/642], LR 7.8e-05, Loss: 92.0
+2023-01-06 11:30:33,379 [INFO] Start validation...
+2023-01-06 11:31:57,955 [INFO] mAP score regular 59.66, mAP score EMA 75.47
+2023-01-06 11:31:57,979 [INFO] current_mAP = 75.47, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 11:31:57,980 [INFO] Save text embeddings done
+2023-01-06 11:32:01,425 [INFO] Epoch [11/60], Step [000/642], LR 7.9e-05, Loss: 56.2
+2023-01-06 11:32:42,006 [INFO] Epoch [11/60], Step [100/642], LR 8.0e-05, Loss: 66.1
+2023-01-06 11:33:22,358 [INFO] Epoch [11/60], Step [200/642], LR 8.1e-05, Loss: 83.7
+2023-01-06 11:34:04,062 [INFO] Epoch [11/60], Step [300/642], LR 8.2e-05, Loss: 75.6
+2023-01-06 11:34:43,878 [INFO] Epoch [11/60], Step [400/642], LR 8.3e-05, Loss: 72.3
+2023-01-06 11:35:24,291 [INFO] Epoch [11/60], Step [500/642], LR 8.4e-05, Loss: 69.1
+2023-01-06 11:36:04,448 [INFO] Epoch [11/60], Step [600/642], LR 8.6e-05, Loss: 83.7
+2023-01-06 11:36:20,527 [INFO] Start validation...
+2023-01-06 11:37:44,053 [INFO] mAP score regular 61.33, mAP score EMA 75.07
+2023-01-06 11:37:44,079 [INFO] current_mAP = 75.07, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 11:37:44,079 [INFO] Save text embeddings done
+2023-01-06 11:37:47,365 [INFO] Epoch [12/60], Step [000/642], LR 8.6e-05, Loss: 53.6
+2023-01-06 11:38:27,903 [INFO] Epoch [12/60], Step [100/642], LR 8.7e-05, Loss: 73.9
+2023-01-06 11:39:08,758 [INFO] Epoch [12/60], Step [200/642], LR 8.8e-05, Loss: 70.5
+2023-01-06 11:39:49,299 [INFO] Epoch [12/60], Step [300/642], LR 8.9e-05, Loss: 66.2
+2023-01-06 11:40:29,250 [INFO] Epoch [12/60], Step [400/642], LR 9.0e-05, Loss: 70.6
+2023-01-06 11:41:09,753 [INFO] Epoch [12/60], Step [500/642], LR 9.1e-05, Loss: 49.5
+2023-01-06 11:41:50,289 [INFO] Epoch [12/60], Step [600/642], LR 9.2e-05, Loss: 91.7
+2023-01-06 11:42:06,248 [INFO] Start validation...
+2023-01-06 11:43:28,523 [INFO] mAP score regular 58.09, mAP score EMA 74.49
+2023-01-06 11:43:28,543 [INFO] current_mAP = 74.49, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 11:43:28,543 [INFO] Save text embeddings done
+2023-01-06 11:43:32,556 [INFO] Epoch [13/60], Step [000/642], LR 9.2e-05, Loss: 70.4
+2023-01-06 11:44:12,892 [INFO] Epoch [13/60], Step [100/642], LR 9.3e-05, Loss: 63.4
+2023-01-06 11:44:54,296 [INFO] Epoch [13/60], Step [200/642], LR 9.3e-05, Loss: 52.3
+2023-01-06 11:45:34,534 [INFO] Epoch [13/60], Step [300/642], LR 9.4e-05, Loss: 80.5
+2023-01-06 11:46:14,819 [INFO] Epoch [13/60], Step [400/642], LR 9.5e-05, Loss: 67.5
+2023-01-06 11:46:54,987 [INFO] Epoch [13/60], Step [500/642], LR 9.6e-05, Loss: 87.5
+2023-01-06 11:47:34,990 [INFO] Epoch [13/60], Step [600/642], LR 9.6e-05, Loss: 85.1
+2023-01-06 11:47:51,231 [INFO] Start validation...
+2023-01-06 11:49:15,307 [INFO] mAP score regular 58.42, mAP score EMA 73.83
+2023-01-06 11:49:15,326 [INFO] current_mAP = 73.83, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 11:49:15,326 [INFO] Save text embeddings done
+2023-01-06 11:49:18,958 [INFO] Epoch [14/60], Step [000/642], LR 9.6e-05, Loss: 62.1
+2023-01-06 11:49:59,408 [INFO] Epoch [14/60], Step [100/642], LR 9.7e-05, Loss: 51.0
+2023-01-06 11:50:39,639 [INFO] Epoch [14/60], Step [200/642], LR 9.7e-05, Loss: 59.7
+2023-01-06 11:51:19,397 [INFO] Epoch [14/60], Step [300/642], LR 9.8e-05, Loss: 67.3
+2023-01-06 11:52:00,034 [INFO] Epoch [14/60], Step [400/642], LR 9.8e-05, Loss: 77.9
+2023-01-06 11:52:40,127 [INFO] Epoch [14/60], Step [500/642], LR 9.9e-05, Loss: 95.8
+2023-01-06 11:53:20,492 [INFO] Epoch [14/60], Step [600/642], LR 9.9e-05, Loss: 58.2
+2023-01-06 11:53:36,514 [INFO] Start validation...
+2023-01-06 11:54:59,305 [INFO] mAP score regular 58.45, mAP score EMA 73.08
+2023-01-06 11:54:59,323 [INFO] current_mAP = 73.08, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 11:54:59,324 [INFO] Save text embeddings done
+2023-01-06 11:55:02,558 [INFO] Epoch [15/60], Step [000/642], LR 9.9e-05, Loss: 52.1
+2023-01-06 11:55:43,374 [INFO] Epoch [15/60], Step [100/642], LR 9.9e-05, Loss: 56.0
+2023-01-06 11:56:23,691 [INFO] Epoch [15/60], Step [200/642], LR 1.0e-04, Loss: 54.8
+2023-01-06 11:57:04,132 [INFO] Epoch [15/60], Step [300/642], LR 1.0e-04, Loss: 74.5
+2023-01-06 11:57:44,140 [INFO] Epoch [15/60], Step [400/642], LR 1.0e-04, Loss: 76.4
+2023-01-06 11:58:24,332 [INFO] Epoch [15/60], Step [500/642], LR 1.0e-04, Loss: 72.9
+2023-01-06 11:59:06,048 [INFO] Epoch [15/60], Step [600/642], LR 1.0e-04, Loss: 83.1
+2023-01-06 11:59:22,048 [INFO] Start validation...
+2023-01-06 12:00:46,011 [INFO] mAP score regular 57.80, mAP score EMA 72.33
+2023-01-06 12:00:46,030 [INFO] current_mAP = 72.33, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 12:00:46,030 [INFO] Save text embeddings done
+2023-01-06 12:00:49,760 [INFO] Epoch [16/60], Step [000/642], LR 1.0e-04, Loss: 47.8
+2023-01-06 12:01:30,099 [INFO] Epoch [16/60], Step [100/642], LR 1.0e-04, Loss: 45.1
+2023-01-06 12:02:10,653 [INFO] Epoch [16/60], Step [200/642], LR 1.0e-04, Loss: 64.9
+2023-01-06 12:02:50,615 [INFO] Epoch [16/60], Step [300/642], LR 1.0e-04, Loss: 47.6
+2023-01-06 12:03:31,973 [INFO] Epoch [16/60], Step [400/642], LR 1.0e-04, Loss: 67.1
+2023-01-06 12:04:12,286 [INFO] Epoch [16/60], Step [500/642], LR 1.0e-04, Loss: 58.9
+2023-01-06 12:04:52,510 [INFO] Epoch [16/60], Step [600/642], LR 1.0e-04, Loss: 68.0
+2023-01-06 12:05:08,589 [INFO] Start validation...
+2023-01-06 12:06:33,391 [INFO] mAP score regular 54.66, mAP score EMA 71.53
+2023-01-06 12:06:33,411 [INFO] current_mAP = 71.53, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 12:06:33,411 [INFO] Save text embeddings done
+2023-01-06 12:06:36,569 [INFO] Epoch [17/60], Step [000/642], LR 1.0e-04, Loss: 52.4
+2023-01-06 12:07:16,917 [INFO] Epoch [17/60], Step [100/642], LR 1.0e-04, Loss: 43.3
+2023-01-06 12:07:57,009 [INFO] Epoch [17/60], Step [200/642], LR 1.0e-04, Loss: 60.3
+2023-01-06 12:08:37,548 [INFO] Epoch [17/60], Step [300/642], LR 1.0e-04, Loss: 41.8
+2023-01-06 12:09:17,722 [INFO] Epoch [17/60], Step [400/642], LR 1.0e-04, Loss: 58.5
+2023-01-06 12:09:57,631 [INFO] Epoch [17/60], Step [500/642], LR 1.0e-04, Loss: 51.4
+2023-01-06 12:10:37,860 [INFO] Epoch [17/60], Step [600/642], LR 1.0e-04, Loss: 56.1
+2023-01-06 12:10:54,249 [INFO] Start validation...
+2023-01-06 12:12:17,701 [INFO] mAP score regular 54.50, mAP score EMA 70.68
+2023-01-06 12:12:17,719 [INFO] current_mAP = 70.68, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 12:12:17,719 [INFO] Save text embeddings done
+2023-01-06 12:12:20,843 [INFO] Epoch [18/60], Step [000/642], LR 1.0e-04, Loss: 43.1
+2023-01-06 12:13:01,608 [INFO] Epoch [18/60], Step [100/642], LR 1.0e-04, Loss: 41.5
+2023-01-06 12:13:42,382 [INFO] Epoch [18/60], Step [200/642], LR 1.0e-04, Loss: 52.3
+2023-01-06 12:14:22,398 [INFO] Epoch [18/60], Step [300/642], LR 1.0e-04, Loss: 38.6
+2023-01-06 12:15:02,470 [INFO] Epoch [18/60], Step [400/642], LR 1.0e-04, Loss: 50.6
+2023-01-06 12:15:42,540 [INFO] Epoch [18/60], Step [500/642], LR 1.0e-04, Loss: 49.1
+2023-01-06 12:16:23,100 [INFO] Epoch [18/60], Step [600/642], LR 9.9e-05, Loss: 45.4
+2023-01-06 12:16:38,953 [INFO] Start validation...
+2023-01-06 12:18:02,108 [INFO] mAP score regular 54.92, mAP score EMA 69.85
+2023-01-06 12:18:02,139 [INFO] current_mAP = 69.85, highest_mAP = 75.71, best_epoch=8
+
+2023-01-06 12:18:02,140 [INFO] Save text embeddings done
+2023-01-06 12:18:06,246 [INFO] Epoch [19/60], Step [000/642], LR 9.9e-05, Loss: 36.6
+2023-01-06 12:18:47,255 [INFO] Epoch [19/60], Step [100/642], LR 9.9e-05, Loss: 40.9

@@ -1,0 +1,24 @@
+checkpoint: hspnet+nuswide
+log_file: hspnet+nuswide.txt
+model_name: clip_gcn
+lr: 0.0001
+epochs: 60
+data: /data/chenhui/wangao/datasets/nuswide/
+train_dataset: ./dataset/nus_train_singlelabel.txt
+val_dataset: ./dataset/nus_val.txt
+child_num: 81
+ratio: 1
+parent_n_ctx: 4
+parent_ctx_init: a photo of a
+child_n_ctx: 4
+child_ctx_init: a photo of a
+meta_lr: 0.0005
+change_epoch: 3
+tau: 0.6
+super_labels: nuswide_super_labels.txt
+super_labels_index: nuswide_super_labels_index.npy
+gcn_lr: 0.0005
+reweight_p: 0.2
+relation_file: relation+nuswide+super.npy
+image_size: 224
+num_classes: 81

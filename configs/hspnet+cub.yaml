@@ -1,0 +1,26 @@
+checkpoint: hspnet+cub
+log_file: hspnet+cub.txt
+model_name: clip_gcn
+lr: 0.001
+epochs: 60
+ratio: 1
+parent_n_ctx: 4
+parent_ctx_init: a photo of a
+child_n_ctx: 4
+child_ctx_init: a photo of a
+meta_lr: 0.0005
+change_epoch: 1
+super_labels: cub_super_labels.txt
+super_labels_index: cub_super_labels_index.npy
+data: /data/chenhui/wangao/datasets/cub/
+num_classes: 312
+test: false
+train_dataset: ./dataset/cub_train.txt
+val_dataset: ./dataset/cub_val.txt
+resume: false
+tau: 0.6
+gcn_lr: 0.005
+reweight_p: 0.2
+child_num: 312
+relation_file: relation+cub+super.npy
+image_size: 224
